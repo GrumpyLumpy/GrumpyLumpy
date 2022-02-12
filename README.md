@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GrumpyLumpy
-- 👀 I’m interested in ... not sure yet
+- 👀 I’m interested in ... softwre engineering and devops
 - 🌱 I’m currently learning ...full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
